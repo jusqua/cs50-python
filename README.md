@@ -13,4 +13,6 @@ Don't copy and paste any of these files, try to solve any problems by yourself.
     * [Making Faces](./week0/faces/faces.py)
     * [Einstein](./week0/einstein/einstein.py)
     * [Tip Calculator](./week0/tip/tip.py)
+  * Week 1
+    * [Deep Thought](./week1/deep/deep.py)
 
