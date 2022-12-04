@@ -9,4 +9,5 @@ Don't copy and paste any of these files, try to solve any problems by yourself.
 ## Table of Contents
   * Week 1
     * [Indoor Voice](./week1/indoor/indoor.py)
+    * [Playback Speed](./week1/playback/playback.py)
 
