@@ -11,4 +11,5 @@ Don't copy and paste any of these files, try to solve any problems by yourself.
     * [Indoor Voice](./week1/indoor/indoor.py)
     * [Playback Speed](./week1/playback/playback.py)
     * [Making Faces](./week1/faces/faces.py)
+    * [Einstein](./week1/einstein/einstein.py)
 
