@@ -18,4 +18,5 @@ Don't copy and paste any of these files, try to solve any problems by yourself.
     * [Home Federal Savings Bank](./week1/bank/bank.py)
     * [File Extensions](./week1/extensions/extensions.py)
     * [Math Interpreter](./week1/interpreter/interpreter.py)
+    * [Meal Time](./week1/meal/meal.py)
 
