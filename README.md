@@ -19,4 +19,6 @@ Don't copy and paste any of these files, try to solve any problems by yourself.
     * [File Extensions](./week1/extensions/extensions.py)
     * [Math Interpreter](./week1/interpreter/interpreter.py)
     * [Meal Time](./week1/meal/meal.py)
+  * Week 2
+    * [Camel Case](./week2/camel/camel.py)
 
