@@ -20,6 +20,7 @@ Don't copy and paste any of these files, try to solve any problems by yourself.
     * [Math Interpreter](./week1/interpreter/interpreter.py)
     * [Meal Time](./week1/meal/meal.py)
   * Week 2
-    * [Camel Case](./week2/camel/camel.py)
+    * [camelCase](./week2/camel/camel.py)
     * [Coke Machine](./week2/coke/coke.py)
+    * [Just setting up my twttr](./week2/twttr/twttr.py)
 
