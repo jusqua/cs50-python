@@ -15,4 +15,5 @@ Don't copy and paste any of these files, try to solve any problems by yourself.
     * [Tip Calculator](./week0/tip/tip.py)
   * Week 1
     * [Deep Thought](./week1/deep/deep.py)
+    * [Home Federal Savings Bank](./week1/bank/bank.py)
 
