@@ -23,4 +23,5 @@ Don't copy and paste any of these files, try to solve any problems by yourself.
     * [camelCase](./week2/camel/camel.py)
     * [Coke Machine](./week2/coke/coke.py)
     * [Just setting up my twttr](./week2/twttr/twttr.py)
+    * [Vanity Plates](./week2/plates/plates.py)
 
