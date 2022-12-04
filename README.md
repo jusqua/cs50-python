@@ -21,4 +21,5 @@ Don't copy and paste any of these files, try to solve any problems by yourself.
     * [Meal Time](./week1/meal/meal.py)
   * Week 2
     * [Camel Case](./week2/camel/camel.py)
+    * [Coke Machine](./week2/coke/coke.py)
 
