@@ -30,4 +30,6 @@ Don't copy and paste any of these files, try to solve any problems by yourself.
     * [Felipe's Taqueria](./week3/taqueria/taqueria.py)
     * [Grocery List](./week3/grocery/grocery.py)
     * [Outdated](./week3/outdated/outdated.py)
+  * Week 4
+    * [Emojize](./week4/emojize/emojize.py)
 
