@@ -29,4 +29,5 @@ Don't copy and paste any of these files, try to solve any problems by yourself.
     * [Fuel Gauge](./week3/fuel/fuel.py)
     * [Felipe's Taqueria](./week3/taqueria/taqueria.py)
     * [Grocery List](./week3/grocery/grocery.py)
+    * [Outdated](./week3/outdated/outdated.py)
 
