@@ -28,4 +28,5 @@ Don't copy and paste any of these files, try to solve any problems by yourself.
   * Week 3
     * [Fuel Gauge](./week3/fuel/fuel.py)
     * [Felipe's Taqueria](./week3/taqueria/taqueria.py)
+    * [Grocery](./week3/grocery/grocery.py)
 
