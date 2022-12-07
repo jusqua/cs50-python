@@ -34,4 +34,5 @@ Don't copy and paste any of these files, try to solve any problems by yourself.
     * [Emojize](./week4/emojize/emojize.py)
     * [Frank, Ian and Glen’s Letters](./week4/figlet/figlet.py)
     * [Adieu, adieu](./week4/adieu/adieu.py)
+    * [Guessing Game](./week4/game/game.py)
 
