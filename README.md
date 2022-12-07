@@ -25,4 +25,6 @@ Don't copy and paste any of these files, try to solve any problems by yourself.
     * [Just setting up my twttr](./week2/twttr/twttr.py)
     * [Vanity Plates](./week2/plates/plates.py)
     * [Nutrition Facts](./week2/nutrition/nutrition.py)
+  * Week 3
+    * [Fuel Gauge](./week3/fuel/fuel.py)
 
