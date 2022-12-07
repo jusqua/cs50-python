@@ -27,4 +27,5 @@ Don't copy and paste any of these files, try to solve any problems by yourself.
     * [Nutrition Facts](./week2/nutrition/nutrition.py)
   * Week 3
     * [Fuel Gauge](./week3/fuel/fuel.py)
+    * [Felipe's Taqueria](./week3/taqueria/taqueria.py)
 
