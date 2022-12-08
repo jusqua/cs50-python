@@ -39,4 +39,5 @@ Don't copy and paste any of these files, try to solve any problems by yourself.
     * [Bitcoin Price Index](./week4/bitcoin/bitcoin.py)
   * Week 5
     * [Testing my twttr](./week5/test_twttr/test_twttr.py)
+    * [Back to the Bank](./week5/test_bank/test_bank.py)
 
