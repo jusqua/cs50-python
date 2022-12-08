@@ -40,4 +40,5 @@ Don't copy and paste any of these files, try to solve any problems by yourself.
   * Week 5
     * [Testing my twttr](./week5/test_twttr/test_twttr.py)
     * [Back to the Bank](./week5/test_bank/test_bank.py)
+    * [Re-requesting a Vanity Plate](./week5/test_plates/test_plates.py)
 
