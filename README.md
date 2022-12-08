@@ -37,4 +37,6 @@ Don't copy and paste any of these files, try to solve any problems by yourself.
     * [Guessing Game](./week4/game/game.py)
     * [Little Professor](./week4/professor/professor.py)
     * [Bitcoin Price Index](./week4/bitcoin/bitcoin.py)
+  * Week 5
+    * [Testing my twttr](./week5/test_twttr/test_twttr.py)
 
