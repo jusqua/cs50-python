@@ -36,4 +36,5 @@ Don't copy and paste any of these files, try to solve any problems by yourself.
     * [Adieu, adieu](./week4/adieu/adieu.py)
     * [Guessing Game](./week4/game/game.py)
     * [Little Professor](./week4/professor/professor.py)
+    * [Bitcoin Price Index](./week4/bitcoin/bitcoin.py)
 
