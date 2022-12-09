@@ -42,4 +42,6 @@ Don't copy and paste any of these files, try to solve any problems by yourself.
     * [Back to the Bank](./week5/test_bank/test_bank.py)
     * [Re-requesting a Vanity Plate](./week5/test_plates/test_plates.py)
     * [Refueling](./week5/test_fuel/test_fuel.py)
+  * Week 6
+    * [Lines of Code](./week6/lines/lines.py)
 
