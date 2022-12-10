@@ -47,4 +47,6 @@ Don't copy and paste any of these files, try to solve any problems by yourself.
     * [Pizza Py](./week6/pizza/pizza.py)
     * [Scourgify](./week6/scourgify/scourgify.py)
     * [CS50 P-Shirt](./week6/shirt/shirt.py)
+  * Week 7
+    * [NUMB3RS](./week7/numb3rs/numb3rs.py)
 
