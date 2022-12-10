@@ -46,4 +46,5 @@ Don't copy and paste any of these files, try to solve any problems by yourself.
     * [Lines of Code](./week6/lines/lines.py)
     * [Pizza Py](./week6/pizza/pizza.py)
     * [Scourgify](./week6/scourgify/scourgify.py)
+    * [CS50 P-Shirt](./week6/shirt/shirt.py)
 
