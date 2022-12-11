@@ -50,4 +50,5 @@ Don't copy and paste any of these files, try to solve any problems by yourself.
   * Week 7
     * [NUMB3RS](./week7/numb3rs/numb3rs.py)
     * [Watch on YouTube](./week7/watch/watch.py)
+    * [Working 9 to 5](./week7/working/working.py)
 
