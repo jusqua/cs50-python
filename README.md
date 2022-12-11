@@ -53,4 +53,6 @@ Don't copy and paste any of these files, try to solve any problems by yourself.
     * [Working 9 to 5](./week7/working/working.py)
     * [Regular,um,Expressions](./week7/um/um.py)
     * [Response Validation](./week7/response/response.py)
+  * Week 8
+    * [Seasons of Love](./week8/seasons/seasons.py)
 
