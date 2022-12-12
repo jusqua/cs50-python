@@ -55,4 +55,5 @@ Don't copy and paste any of these files, try to solve any problems by yourself.
     * [Response Validation](./week7/response/response.py)
   * Week 8
     * [Seasons of Love](./week8/seasons/seasons.py)
+    * [Cookie Jar](./week8/jar/jar.py)
 
