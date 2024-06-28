@@ -56,7 +56,7 @@ Don't copy and paste any of these files, try to solve any problems by yourself.
     * [Seasons of Love](week8/seasons/seasons.py)
     * [Cookie Jar](week8/jar/jar.py)
     * [CS50 Shirtificate](week8/shirtificate/shirtificate.py)
-* [Final Project](https://gitlab.com/jusqua/roguelikey)
+* [Final Project](https://github.com/jusqua/roguelikey)
 
 ## Certificate
 
